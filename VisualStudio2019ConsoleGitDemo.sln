@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualStudio2019ConsoleGitDemo", "VisualStudio2019ConsoleGitDemo\VisualStudio2019ConsoleGitDemo.csproj", "{6CC6128B-0CDB-46C5-9A8D-C0B07CC8AABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC6128B-0CDB-46C5-9A8D-C0B07CC8AABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC6128B-0CDB-46C5-9A8D-C0B07CC8AABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC6128B-0CDB-46C5-9A8D-C0B07CC8AABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC6128B-0CDB-46C5-9A8D-C0B07CC8AABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43E519E-DE51-4161-A8EA-19C4DA1999E8}
+	EndGlobalSection
+EndGlobal
